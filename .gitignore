@@ -1,0 +1,11 @@
+# Excluded notebook
+F1 Analysis.ipynb
+.ipynb_checkpoints/
+
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# macOS
+.DS_Store
